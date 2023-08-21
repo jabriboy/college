@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jabri
+ *
+ */
+module colections {
+}
